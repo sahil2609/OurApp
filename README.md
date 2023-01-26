@@ -1,5 +1,7 @@
 # Socially Yours
 
+####Note:
+This project was hosted on Heroku but now due to changed policies of Heroku it's not working.
 ## About the project
 - Developed a full stack social media web application with features to sign up, login, post, chat, follow and search.
 - Implemented validation in registration form and added CSRF protection.
@@ -43,4 +45,3 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
